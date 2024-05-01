@@ -1,1 +1,1 @@
-console.log('dfsfsfsf');;
+console.log('dfsfsfsf');
